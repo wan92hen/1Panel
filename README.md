@@ -58,6 +58,10 @@ Please refer to our [documentation](https://docs.1panel.hk/quick_start/) for mor
 
 [![Star History Chart](https://api.star-history.com/svg?repos=1Panel-dev/1Panel&type=Date)](https://star-history.com/#1Panel-dev/1Panel&Date)
 
+## Pro Edition
+
+Compared to the OSS Edition, 1Panel Pro Edition provides users with a wealth of enhanced features and technical support services. Enhanced features include WAF enhancement, website tamper protection, website monitoring, GPU monitoring, custom logo and theme color, etc. [Click to view the detailed introduction of the Pro Edition](https://1panel.hk/pricing).
+
 ## Security Information
 
 If you discover any security issues, please contact us through: wanghe@fit2cloud.com.
